@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Республіка Химич</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        header {
+            background-color: #ff6600;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            max-width: 100%;
+            border-radius: 5px;
+        }
+        footer {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Республіка Химич
+    </header>
+    <div class="container">
+        <h2>Ласкаво просимо до Республіки Химич!</h2>
+        <p>Віртуальна держава, що відображає культуру та історію регіону.</p>
+        <img src="Сцяг Респабліки Химич.png" alt="Прапор Республіки Химич">
+        <h3>Символіка</h3>
+        <p>Прапор Республіки Химич складається з трьох вертикальних кольорів: оранжевого, білого та синього.</p>
+        <img src="coat_of_arms.png" alt="Герб Республіки Химич">
+        <p>Герб містить традиційні символи та обрамлення із гілочок шовковиці.</p>
+    </div>
+    <footer>
+        &copy; 2025 Республіка Химич
+    </footer>
+</body>
+</html>
